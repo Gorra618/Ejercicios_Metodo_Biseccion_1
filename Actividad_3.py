@@ -3,7 +3,6 @@ import matplotlib.pyplot as plt
 
 
 def f(x):
-    """Función f(x) = 4*sin(x) + 1 - x"""
     return 4 * np.sin(x) + 1 - x
 
 
